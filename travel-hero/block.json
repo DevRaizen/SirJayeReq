@@ -1,14 +1,16 @@
 {
-  "name": "acf/contact-section",
-  "title": "Contact Section",
-  "description": "Contact hero section block.",
+  "name": "acf/travel-hero",
+  "title": "Travel Hero",
+  "description": "Hero block.",
+  "style": ["file:./css/style.min.css"],
+  "script": "travel-hero",
   "category": "gl-blocks",
   "icon": "block-default",
-  "keywords": ["contact", "contact-section"],
+  "keywords": ["news", "travel-hero"],
   "acf": {
     "blockVersion": 3,
     "mode": "preview",
-    "renderTemplate": "contact_section.php",
+    "renderTemplate": "travel_hero.php",
     "supports": "jsx"
   },
   "supports": {

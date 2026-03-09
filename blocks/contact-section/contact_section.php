@@ -136,4 +136,3 @@ $icon_phone = get_theme_file_uri('assets/icons/icon-phone.svg');
     </div>
   </div>
 </section>
-
